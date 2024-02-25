@@ -26,7 +26,8 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "app/auth/new-verification"
+    "app/auth/new-verification",
+    "app/auth/new-password"
   ],
   "exclude": ["node_modules"]
 }
