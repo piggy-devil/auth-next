@@ -22,7 +22,7 @@ const Home = () => {
         </h1>
         <p className="text-white text-lg">A Simple authenitcation service</p>
         <div>
-          <LoginButton>
+          <LoginButton mode="modal" asChild>
             <Button variant="secondary">Sign in</Button>
           </LoginButton>
         </div>
